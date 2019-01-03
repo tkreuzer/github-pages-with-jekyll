@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my test page
+I'm gonna put some random stuff here, just for fun!
 
-I'm glad you are here. I plan to talk about ...
